@@ -1,0 +1,1 @@
+export const ssr = false; // needed for client side navigation
